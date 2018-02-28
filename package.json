@@ -1,0 +1,8 @@
+{
+  "name": "DJ Kruffex",
+  "version": "1.0.0",
+  "description": "I'm the best DJ of Kimitoön",
+  "main": "bot.js",
+  "author": "DJ Kruffex",
+  "dependencies": {}
+}
